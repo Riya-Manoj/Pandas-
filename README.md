@@ -4,8 +4,8 @@ This repository contains my Pandas assignment, which includes dataset preprocess
 
 ## Contents
 - **Iris.csv** → Dataset used for analysis  
-- **pandas_assignment.ipynb** → Python code for preprocessing and analysis  
-- **pandas_assignment.pptx** → Presentation slides  
+- **Pandas.ipynb** → Python code for preprocessing and analysis  
+- **Pandas_Assignment_Iris.pptx** → Presentation slides  
 
 ## Tools & Libraries
 - Python  
